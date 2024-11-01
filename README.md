@@ -1,3 +1,7 @@
+
+![Logo](https://github.com/senajpeg/DiceRoller/blob/main/diceroller1.png?raw=true)
+
+
 Dice Roller App
 Overview
 --------
